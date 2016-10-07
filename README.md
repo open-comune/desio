@@ -6,7 +6,7 @@
 
 credits [Rosy Battaglia](https://www.facebook.com/rosy.battaglia.3) [fonte](https://www.facebook.com/photo.php?fbid=10209068465727425&set=pcb.10209068466047433&type=3&theater)
 
-> Proposte, segnalazioni e collaborazioni desiane.
+**Proposte, segnalazioni e collaborazioni desiane.**
 
 Il link che mostra lo stato di avanzamento di tutti i progetti è [open.desio.org](http://open.desio.org).
 
