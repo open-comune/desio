@@ -4,7 +4,7 @@
 
 ## Pedemontana ha consegnato i risultati del Piano di Caratterizzazione delle aree coinvolte nell'incidente ICMESA
 
-**Comunicato stampa**
+*Comunicato stampa*
 
 Nei giorni scorsi la società "Pedemontana" ha consegnato ai Comuni della tratta B2 e C, gli esiti del piano integrativo di caratterizzazione sui terreni interessati dal passaggio della futura autostrada e colpiti dall'incidente Icmesa del 10 luglio 1976. Si tratta della relazione di accompagnamento che comprende i referti analitici di ogni singolo campionamento effettuato prima dell'estate, le relative tavole e il rapporto di commento predisposto dall'Agenzia Regionale per la Protezione dell'Ambiente (ARPA).
 
