@@ -28,3 +28,4 @@ Firmato:
 ## Relazioni
 
 - [Pedemontana](https://github.com/open-comune/desio/wiki/Pedemontana)
+- [Incidente ICMESA](https://github.com/open-comune/desio/wiki/Incidente-ICMESA)
