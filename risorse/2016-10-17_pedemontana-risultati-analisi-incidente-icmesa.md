@@ -24,3 +24,7 @@ Firmato:
 - Pietro Luigi Ponti, Sindaco di Cesano Maderno
 - Giuliano Soldà, Sindaco di Bovisio Masciago
 - Roberto Corti, Sindaco di Desio
+
+## Relazioni
+
+- [Pedemontana](https://github.com/open-comune/desio/wiki/Pedemontana)
