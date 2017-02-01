@@ -8,4 +8,4 @@
 - [Segnala Desio](http://segnala.desio.org): segnalazioni dei cittadini nei confronti dell'amministrazione comunale.
 - [Progetta Desio](http://progetta.desio.org): proposte di progetti collaborativi.
 
-Questa pagina di sintesi è disponibile all'indirizzo [open.desio.org](http://open.desio.org). Sentiti libero di condividerlo ovunque.
+Questa pagina di sintesi è disponibile all'indirizzo [open.desio.org](http://open.desio.org), Sentiti libero di condividerlo ovunque.
