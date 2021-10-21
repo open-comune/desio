@@ -8,6 +8,4 @@
 - [Segnala Desio](https://github.com/open-comune/segnala-desio): segnalazioni dei cittadini nei confronti dell'amministrazione comunale.
 - [Progetta Desio](https://github.com/open-comune/progetta-desio): proposte di progetti collaborativi.
 
-~~Questa pagina di sintesi è disponibile all'indirizzo [open.desio.org](http://open.desio.org), Sentiti libero di condividerlo ovunque.~~ (La pagina web di sintesi verra' riscritta a breve)
-
 **Attenzione**: inizialmente questo spazio conteneva sia le segnalazioni che i progetti e si è poi deciso di creare degli spazio adeguati, quindi tutte le vecchie segnalazioni e i vecchi progetti presenti [in questa pagina](https://github.com/open-comune/desio/issues) verranno gradualmente spostati rispettivamente in [Segnala Desio](https://github.com/open-comune/segnala-desio/issues) e in [Progetta Desio](https://github.com/open-comune/progetta-desio/issues).
