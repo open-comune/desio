@@ -4,9 +4,9 @@
 
 **Open Desio** è il contenitore all'interno del quale si trovano i 3 progetti:
 
-- [Conosci Desio](http://conosci.desio.org): fatti documentati.
-- [Segnala Desio](http://segnala.desio.org): segnalazioni dei cittadini nei confronti dell'amministrazione comunale.
-- [Progetta Desio](http://progetta.desio.org): proposte di progetti collaborativi.
+- [Conosci Desio](https://github.com/open-comune/conosci-desio): fatti documentati.
+- [Segnala Desio](https://github.com/open-comune/segnala-desio): segnalazioni dei cittadini nei confronti dell'amministrazione comunale.
+- [Progetta Desio](https://github.com/open-comune/progetta-desio): proposte di progetti collaborativi.
 
 ~~Questa pagina di sintesi è disponibile all'indirizzo [open.desio.org](http://open.desio.org), Sentiti libero di condividerlo ovunque.~~ (La pagina web di sintesi verra' riscritta a breve)
 
